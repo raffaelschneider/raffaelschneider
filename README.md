@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I’m Raffael 👋
 
-<!--
-**raffaelschneider/raffaelschneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **automation-first platforms** and **edge/web ingress systems** that survive production reality.
+Applied security is one arena of the same problem: **systems under pressure, adversarial inputs, and messy constraints**.
 
-Here are some ideas to get you started:
+- Based in Basel, Switzerland
+- Writing: https://raskell.io
+- Speaking: RSAC 2026 (details soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- Platform automation (workflows, guardrails, self-service, operability)
+- Edge systems (reverse proxies, policy, observability, safe change)
+- Applied security (signal > noise, pragmatic controls, incident-driven improvements)
+- Preference: **open standards and sustainable solutions over vendor lock-in**
+
+## Selected repos
+- **Envoy / Proxy-WASM experiments** (filters, modules, getting started)
+- **OpenBSD daily-driver** curation and tooling
+- **Walnut**: POSIX-friendly knowledge base standard experiments
+
+## Contact
+- X: [@raskelll](https://x.com/raskelll)
+- LinkedIn: [in/raffael-e-schneider](https://www.linkedin.com/in/raffael-e-schneider/)
