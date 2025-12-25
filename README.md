@@ -13,10 +13,9 @@ Applied security is one arena of the same problem: **systems under pressure, adv
 - Applied security (signal > noise, pragmatic controls, incident-driven improvements)
 - Preference: **open standards and sustainable solutions over vendor lock-in**
 
-## Selected repos
-- **Envoy / Proxy-WASM experiments** (filters, modules, getting started)
-- **OpenBSD daily-driver** curation and tooling
-- **Walnut**: POSIX-friendly knowledge base standard experiments
+## Selected projects
+- [**Sentinel**](https://sentinel.raskell.io/): Security-first reverse proxybuilt to guard the free web
+- [**Learn You The Web**](https://learn-you-the-web.raskell.io/): A e-book about how the web works, explained in simple words.
 
 ## Contact
 - X: [@raskelll](https://x.com/raskelll)
