@@ -14,8 +14,8 @@ Applied security is one arena of the same problem: **systems under pressure, adv
 - Preference: **open standards and sustainable solutions over vendor lock-in**
 
 ## Selected projects
-- [**Sentinel**](https://sentinel.raskell.io/): Security-first reverse proxybuilt to guard the free web
-- [**Learn You The Web**](https://learn-you-the-web.raskell.io/): A e-book about how the web works, explained in simple words.
+- [**Sentinel**](https://sentinel.raskell.io/): Security-first reverse proxy built to guard the free web, based on Pingora.
+- [**Learn You The Web**](https://learn-you-the-web.raskell.io/): An e-book that explains the web’s core technologies in simple words.
 
 ## Contact
 - X: [@raskelll](https://x.com/raskelll)
