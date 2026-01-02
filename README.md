@@ -1,4 +1,4 @@
-# Hey, I’m Raffael 🦝
+# Hey, I’m Raffael 🌿
 
 I build **automation-first platforms** and **edge/web ingress systems** that survive production reality.
 Applied security is one arena of the same problem: **systems under pressure, adversarial inputs, and messy constraints**.
