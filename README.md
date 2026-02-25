@@ -5,7 +5,7 @@ Applied security is one arena of the same problem: **systems under pressure, adv
 
 - Based in Basel, Switzerland
 - Writing: https://raskell.io
-- Speaking: RSAC 2026 (details soon)
+- Speaking: [RSAC 2026](https://raskell.io/speaking/)
 
 ## What I work on
 - Platform automation (workflows, guardrails, self-service, operability)
@@ -30,6 +30,12 @@ Applied security is one arena of the same problem: **systems under pressure, adv
 - [**Learn You the Web**](https://learn-you-the-web.raskell.io) — An e-book explaining HTTP, DNS, TLS, and the protocols that hold the web together. ([GitHub](https://github.com/raskell-io/learn-you-the-web))
 
 [All projects →](https://raskell.io/projects/)
+
+## Speaking
+
+- **RSAC 2026** — [Self-Learning WAF: Using Generative AI to Tame ModSecurity False Positives](https://path.rsaconference.com/flow/rsac/us26/FullAgenda/page/catalog/session/1753946922633001YdMq) — March 25, 2026
+
+[More →](https://raskell.io/speaking/)
 
 ## Contact
 - X: [@raskelll](https://x.com/raskelll)
