@@ -27,6 +27,10 @@ Applied security is one arena of the same problem: **systems under pressure, adv
 - [**Conflux**](https://github.com/raskell-io/conflux) — Schema-aware config state coordination. CRDT document engine with pluggable storage backends.
 - [**Sango**](https://sango.raskell.io) — CLI diagnostic tool for web edge infrastructure: TLS, HTTP protocols, security headers. ([GitHub](https://github.com/raskell-io/sango))
 - [**Terrarium**](https://github.com/raskell-io/terrarium) — Societal simulation engine where LLM-powered agents form emergent civilizations.
+- [**Ushio**](https://github.com/raskell-io/ushio) — Traffic replay tool for understanding edge and WAF behavior. HAR support, URL rewriting, behavioral diff.
+- [**Paw & Claw**](https://github.com/raskell-io/paw-and-claw) — HD-2D-stylized turn-based tactics game built with Rust/Bevy.
+- [**Driftscape**](https://github.com/raskell-io/driftscape) — Ambient soundscape platform — composable, location-aware, AI-powered background music. (Very early)
+- [**Awesomeify**](https://github.com/raskell-io/awesomeify) — Index GitHub repos and generate static awesome-list sites.
 - [**Learn You the Web**](https://learn-you-the-web.raskell.io) — An e-book explaining HTTP, DNS, TLS, and the protocols that hold the web together. ([GitHub](https://github.com/raskell-io/learn-you-the-web))
 
 [All projects →](https://raskell.io/projects/)
