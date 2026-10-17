@@ -44,14 +44,14 @@ Compilers, package managers, frameworks, and specs. The tools I wish existed.
 - [**WASM-AD**](https://wasmad.raskell.io) ([GitHub](https://github.com/raskell-io/wasm-ad)): a fantasy console standard whose cartridges are WebAssembly modules, with a spec, reference renderer, and SDK.
 - [**seijaku**](https://github.com/raskell-io/seijaku): 静寂 the zero-JavaScript Zola theme behind raskell.io.
 
-### Local-first apps and simulations
+### Local-first apps, simulations, and games
 
-Small things you can open right now. Your data stays on your device; the simulations run in the browser.
+Small things you can open right now. Your data stays on your device; the simulations and games run in the browser.
 
 - [**Kurumi**](https://kurumi.raskell.io): a local-first, AI-native second brain that works offline.
 - [**Manabi**](https://manabi.raskell.io): 学 a reading-first language-learning app for Chinese, Japanese, and Hebrew.
 - [**Paw & Claw**](https://pawandclaw.raskell.io): turn-based tactics in the spirit of Advance Wars, fought by woodland armies.
-- [**Rainbow River**](https://rainbowriver.raskell.io): a handheld-era river-fishing simulation, and the first WASM-AD cartridge.
+- [**Rainbow River**](https://rainbowriver.raskell.io): a handheld-era fishing game, and the first WASM-AD cartridge.
 - [**Terrarium**](https://terrarium.raskell.io): a simulation where LLM-powered agents form emergent societies.
 - [**broodwar.live**](https://broodwar.live): the community platform for StarCraft: Brood War, with replay analysis in the browser.
 
