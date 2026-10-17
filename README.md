@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.raskell.io/about/">
-    <img src="https://raw.githubusercontent.com/raffaelschneider/raffaelschneider/main/banner.jpg"
+    <img src="https://raw.githubusercontent.com/raffaelschneider/raffaelschneider/main/hero.jpg"
          alt="Turning intelligence into real-world capability"
          width="100%" />
   </a>
