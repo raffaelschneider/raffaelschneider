@@ -55,9 +55,10 @@ Small things you can open right now. Your data stays on your device; the games r
 - [**Terrarium**](https://terrarium.raskell.io): a simulation where LLM-powered agents form emergent societies.
 - [**broodwar.live**](https://broodwar.live): the community platform for StarCraft: Brood War, with replay analysis in the browser.
 
-## Bigger bets
+## Ventures
 
-Ideas I took further, toward products or communities. They move in bursts, and some are resting right now.
+Early-stage ventures, built toward products and communities. I am talking to early users and investors to see
+how the market responds. If one of these interests you, [get in touch](https://www.linkedin.com/in/raffael-e-schneider/).
 
 - [**Archipelag.io**](https://archipelag.io): decentralized AI compute on community-operated GPU hosts. I am the founder.
 - [**Cyanea**](https://cyanea.bio): an open community for life science research, with Rust analysis tools in the browser.
