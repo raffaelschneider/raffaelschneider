@@ -32,7 +32,6 @@ sane defaults, and systems that keep working when reality shows up.
 Where I have spent most of my career: reverse proxies, WAFs, and the traffic in between.
 
 - [**Zentinel**](https://zentinelproxy.io) ([GitHub](https://github.com/zentinelproxy/zentinel)): a security-first reverse proxy on Cloudflare Pingora, with isolated security agents, SDKs in 7 languages, a pure Rust ModSecurity engine, and a fleet control plane. My most-used project.
-- [**Sango**](https://sango.raskell.io) ([GitHub](https://github.com/raskell-io/sango)): edge diagnostics in one command: TLS, HTTP/3, security headers, latency.
 - [**Vela**](https://github.com/raskell-io/vela): no-downtime app deployment on bare metal. One binary, no containers. It runs my own apps in production.
 
 ### Languages and tooling
@@ -72,6 +71,7 @@ Experiments that are early, paused, or waiting for their moment:
 [Conflux](https://github.com/raskell-io/conflux) (CRDT config coordination) ·
 [Shiioo](https://github.com/raskell-io/shiioo) (an agentic company OS) ·
 [Ushio](https://github.com/raskell-io/ushio) (WAF traffic replay) ·
+[Sango](https://sango.raskell.io) (edge diagnostics) ·
 [Human Macroscope](https://github.com/human-macroscope) (research on human collectives) ·
 [Die Zukunft](https://die-zukunft.ch) (engineering principles for public life) ·
 [Driftscape](https://github.com/raskell-io/driftscape) ·
