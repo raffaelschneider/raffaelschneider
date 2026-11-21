@@ -8,11 +8,23 @@
 
 # Hey, I am Raffael
 
-I live in Basel and work as an AI architect. By day I am Enterprise Solution Architect for AI Platforms and
-Agentic AI at [Helvetia Baloise Group](https://www.helvetiabaloise.com/), helping define a Group-wide platform
-for the secure, governed use of foundation models, agents, and AI-assisted engineering.
+I live in Basel and work as an AI architect. By day I am Group AI Solutions Architect for AI Platforms and
+Agentic AI at [Helvetia Baloise Group](https://www.helvetiabaloise.com/). I shape the architecture and evolution
+of shared AI capabilities across the Group, between enterprise architecture, AI platforms, engineering, and
+governance. The job is to turn fast-moving AI technology into secure, governed, and reusable capabilities that
+teams can adopt across different market units, technology stacks, and regulatory environments:
 
-The rest of the time I build things. For years my ideas lived in a notebook because there was never enough time
+- enterprise AI and agent platforms: orchestration, context, memory, and tool integration
+- foundation models, model gateways, and inference, across AWS, Azure, Databricks, and internal platforms
+- governance, security, observability, and auditability for systems that act on their own
+- AI-assisted software engineering and developer experience
+
+Good architecture gives other people room to build. I got here in three steps in 2026: platform engineer on
+secure web delivery and edge infrastructure, where a colleague and I built an LLM-assisted workflow that turns
+noisy ModSecurity alerts into review items an operator can act on; Enterprise Solution Architect for AI Platforms
+and Agentic AI from June; and the Group role since November.
+
+By night I build things. For years my ideas lived in a notebook because there was never enough time
 to try them. AI changed that: the bottleneck moved from writing the code to deciding what is worth building. So now
 I try a lot of ideas, ship them in small and real form, and see which ones stick. Some become serious projects.
 Some stay fun. Both are fine.
@@ -20,12 +32,26 @@ Some stay fun. Both are fine.
 It all lives under [raskell.io](https://www.raskell.io) (raskell = rascal × Haskell × Raffael, tanuki mascot
 included). Tech that serves humans. Boring by default, precise when required.
 
-[raskell.io](https://www.raskell.io) · [Articles](https://www.raskell.io/articles/) · [Projects](https://www.raskell.io/projects/) · [Apps](https://www.raskell.io/apps/) · [Speaking](https://www.raskell.io/speaking/) · [Start here](https://www.raskell.io/start-here/)
+Most of my ideas start with reading. Lately that is mostly AI and machine learning: how intelligence evolved
+([A Brief History of Intelligence](https://www.raskell.io/articles/review-a-brief-history-of-intelligence/)),
+who builds the frontier and at what cost ([Empire of AI](https://www.raskell.io/articles/review-empire-of-ai/)),
+and a stack of textbooks waiting their turn, from deep learning to reinforcement learning. All of it is in my
+[reading log](https://www.raskell.io/reading/).
+
+[raskell.io](https://www.raskell.io) · [Articles](https://www.raskell.io/articles/) · [Projects](https://www.raskell.io/projects/) · [Apps](https://www.raskell.io/apps/) · [Reading](https://www.raskell.io/reading/) · [Speaking](https://www.raskell.io/speaking/) · [Start here](https://www.raskell.io/start-here/)
 
 ## The threads
 
-Most of what I build falls into three threads. The same habits run through all of them: open standards,
+Most of what I build falls into four threads. The same habits run through all of them: open standards,
 sane defaults, and systems that keep working when reality shows up.
+
+### Agents and the platforms they run on
+
+The thread that grows fastest, by day and by night: what agents need around them to be useful in a real organisation.
+
+- [**IT Intelligence**](https://github.com/raskell-io/it-intelligence): a reference implementation of the missing data layer of enterprise IT, so that agents can reason over systems, owners, and changes instead of guessing. [The article](https://www.raskell.io/articles/it-intelligence/) explains why.
+- [**Terrarium**](https://terrarium.raskell.io): a simulation where LLM-powered agents form emergent societies.
+- [**The Agent Platform Handbook**](https://www.raskell.io/series/the-agent-platform-handbook/): a series on what an agent platform needs: context, tools, memory, retrieval, permissions, observability, cost, and evaluation, with runnable code.
 
 ### Secure edge infrastructure
 
@@ -51,7 +77,6 @@ Small things you can open right now. Your data stays on your device; the simulat
 - [**Manabi**](https://manabi.raskell.io): 学 a reading-first language-learning app for Chinese, Japanese, and Hebrew.
 - [**Paw & Claw**](https://pawandclaw.raskell.io): turn-based tactics in the spirit of Advance Wars, fought by woodland armies.
 - [**Rainbow River**](https://rainbowriver.raskell.io): a handheld-era fishing game, and the first WASM-AD cartridge.
-- [**Terrarium**](https://terrarium.raskell.io): a simulation where LLM-powered agents form emergent societies.
 - [**broodwar.live**](https://broodwar.live): the community platform for StarCraft: Brood War, with replay analysis in the browser.
 
 ## Ventures
@@ -81,8 +106,11 @@ Experiments that are early, paused, or waiting for their moment:
 
 ## Writing and speaking
 
-I write about platform automation, edge systems, applied security, and what changes when AI writes most of the
-code, including [The Agent Platform Handbook](https://www.raskell.io/series/the-agent-platform-handbook/) and
+I write about agents and the platforms they run on, trust and determinism in software, and what changes when AI
+writes most of the code: for example [The Behavioural Turn in Software Engineering](https://www.raskell.io/articles/the-behavioural-turn/),
+[Evaluation Closes the Loop](https://www.raskell.io/articles/evaluation-closes-the-loop/), and
+[The Constraint Moves](https://www.raskell.io/articles/agentic-engineering-days-zurich-2026/), from Agentic
+Engineering Days Zurich. Edge systems and applied security still come up, and so does
 [Learn You the Web](https://learn-you-the-web.raskell.io).
 
 - **IT's ABOUT TECH #13**, Basel: [I Stopped Writing Most of My Code](https://www.raskell.io/talks/iat-13-basel/), June 10, 2026
